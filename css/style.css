@@ -1,0 +1,6 @@
+*{border: 0.2px solid red;}
+.sony-logo{ height: 15%;width: 100%;}
+.sony-logo img{object-fit: cover; height: 100%;}
+
+.lens-link img{width: 30px}
+.lens-link {width: 50%;}
