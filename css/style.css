@@ -1,6 +1,11 @@
 /* *{border: 0.2px solid red;} */
+:root{
+    --plus:#b9b7b5;
+    --now:#161c3b;
+}
 .sony-logo{ height: 15%;width: 100%;}
 .sony-logo img{object-fit: cover; height: 100%;}
+main{margin-top: 91px;}
 
 .lens-link img{width: 30px}
 .lens-link {width: 50%;}
@@ -15,4 +20,9 @@
 .new-release:hover{opacity: 0.5;}
 .ps5-hover{border-bottom: 5px solid transparent;}
 .ps5-hover:hover{border-color: blue;}
+.play-plus{background-color: var(--plus);}
+.play-now{background-color: var(--now);}
+
+.social-hover:hover{border-radius: 25%;transition: 0.9s;}
+.globe{width: 20px;}
 
