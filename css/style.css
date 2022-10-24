@@ -1,10 +1,18 @@
-*{border: 0.2px solid red;}
+/* *{border: 0.2px solid red;} */
 .sony-logo{ height: 15%;width: 100%;}
 .sony-logo img{object-fit: cover; height: 100%;}
 
 .lens-link img{width: 30px}
 .lens-link {width: 50%;}
-.returnal-buy-bg{background-image:url(//img/returnal-listing-thumb-01-ps5.jpg);}
+.returnal-buy-bg{background-image:url(../img/jumbo-bg.png);background-size: cover;background-position: center;}
 .w-60 {width: 60%;}
+.sony-black{height: 25px;}
+.padding-jumbo{padding-top: 30%;}
+.jumbo-hover{border: 3px solid transparent;}
+.jumbo-hover:hover{border-color: skyblue;}
 
+.takes2-bg{background-image:url(../img/it-takes-two-hero-banner-desktop.jpg);background-size: cover;background-position: center;}
+.new-release:hover{opacity: 0.5;}
+.ps5-hover{border-bottom: 5px solid transparent;}
+.ps5-hover:hover{border-color: blue;}
 
